@@ -1,0 +1,2 @@
+gpt-5-nano score: 0.6867  (206/300)
+# samples : 300
