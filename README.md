@@ -1,6 +1,6 @@
 # Dependency-Aware Trajectory Refinement
 
-Code for **[Dependency-Aware Trajectory Refinement for Efficient Multi-Turn Agent Fine-Tuning](https://openreview.net/forum?id=jcfAqlBva7)**  
+Code for **[Dependency-Aware Trajectory Refinement for Efficient Multi-Turn Agent Fine-Tuning](https://arxiv.org/abs/2609.18417)**  
 Zhuo Chen, Zhen Zhang, Xinyu Wang, Kewei Tu
 
 A research fork of [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory). Training still uses LLaMA-Factory ([upstream README](README_llamafactory.md)).
@@ -50,4 +50,14 @@ SFT configs: `examples/train_full/qwen3vl_full_sft_042*.yaml` (Vanilla, Critical
 
 ## Citation
 
-See [OpenReview](https://openreview.net/forum?id=jcfAqlBva7). BibTeX will be added here.
+```bibtex
+@misc{chen2026dependencyawaretrajectoryrefinementefficient,
+      title={Dependency-Aware Trajectory Refinement for Efficient Multi-Turn Agent Fine-Tuning}, 
+      author={Zhuo Chen and Zhen Zhang and Xinyu Wang and Kewei Tu},
+      year={2026},
+      eprint={2609.18417},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.18417}, 
+}
+```
